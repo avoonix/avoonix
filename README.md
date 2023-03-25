@@ -18,6 +18,11 @@
 <div align="center">
 <a href="https://avoonix.com/" target="_blank">My Website</a> | <a href="https://twitter.com/avoonix" target="_blank">Twitter</a> | <a href="https://www.furaffinity.net/user/avoonix/" target="_blank">FurAffinity</a> | <a href="https://steamcommunity.com/id/avoonix" target="_blank">Steam</a> | <a href="https://www.instagram.com/avoonix.foxo/" target="_blank">Instagram</a>
 </div>
+<br />
+
+[![donation link](https://i.avoonix.com/patreon/avoonix-become-a-patron-button.png)](https://avoonix.com/support)
+
+
 
 ---
 
