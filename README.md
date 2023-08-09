@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"><h1>Hewwo, I'm Avoo</h1></div>
-<div align="center">🦊 | 🏳️‍🌈 | 🔞 | 💖 <a href="https://github.com/LoucasTheK9" target="_blank">@LoucasTheK9</a></div>
+<div align="center">🦊 | 🏳️‍🌈 | 🔞</div>
 
 <br>
 
