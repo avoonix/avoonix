@@ -20,10 +20,6 @@
 </div>
 <br />
 
-[![donation link](https://i.avoonix.com/patreon/avoonix-become-a-patron-button.png)](https://avoonix.com/support)
-
-
-
 ---
 
 <a href="https://www.spookyfoxinc.com/"><sup>Drawing by Salem/Oat</sup></a>
